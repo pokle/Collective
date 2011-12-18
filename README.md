@@ -14,3 +14,4 @@ I want to be able to write Java code that looks like:
 	// Set all names
 	Coll.from(persons).all().setName("Shona");
 	
+Inspirations are jQuery and Underscore.js
